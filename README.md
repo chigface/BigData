@@ -1,5 +1,11 @@
 # BigData
 
+I was able to:
+- Create an IBM Cloud account.
+- Create a Watson Studio Service instance.
+- Create a Jupyter Notebook on Watson Studio with a Apache Spark + Python kernel
+- Run the notebook and inspect the outputs
+
 
 ### Introduction to SparkSQL
 I was able to master the following after completing this lab:
