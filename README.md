@@ -10,7 +10,7 @@ I was able to master the following after completing this lab:
 - Create a Pandas UDF to perform columnar operations
 
 
-### DataFrame
+### Intro to DataFrame
 I was able to master the following after completing this lab:
 
 - Load a data file into a DataFrame
